@@ -1,0 +1,8 @@
+class Stu:
+	name= "AAA"
+	age= 0
+	xingbei= "XXX"	
+	
+print Stu.name
+print Stu.age
+print Stu.xingbei
